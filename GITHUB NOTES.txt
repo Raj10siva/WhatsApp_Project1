@@ -15,7 +15,9 @@ Project Owner : - RAJKUMAR
 
 5. Adding Hiding last seen code.
 
+6. Adding the Audio call feature.
 
+7. Adding the video call feature.
 
 
 
