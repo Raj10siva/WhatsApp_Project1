@@ -1,0 +1,48 @@
+
+GitHub Sample project:
+
+This is WhatsApp code.
+
+Project Owner : - RAJKUMAR
+
+1. Profile change code.
+
+2. Chat Screen code.
+
+3. Last Seen code
+
+4. Attatchement code(Image, Audio, video, Document, Location)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GITHUB NOTES:
+
+
+
+1. Repository:
+
+namma project ku thevayana ela code and files elam store pani vekuram oru place.
+
+To store the code and files required for the project in one place is known as Repository.
+
+
+2. Steps to add the file in a Project?
+
+-Create a new repository
+-Select Add files
+-Select Upload file
+-Select your file and click upload
+-Then you can see the uploaded file under your project
