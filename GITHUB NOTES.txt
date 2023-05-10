@@ -21,6 +21,8 @@ Project Owner : - RAJKUMAR
 
 8. A new user want to add Status Functionality code
 
+9. Profile photo Hiding feature added.
+
 
 
 
